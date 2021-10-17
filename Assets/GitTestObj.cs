@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GitTestObj : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        Debug.Log("ê≥èÌÇ…òAågÇ≈Ç´ÇΩÇÊ!");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
